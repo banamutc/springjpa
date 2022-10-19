@@ -1,0 +1,16 @@
+com\example\springjpa\controller\ProfileController.class
+com\example\springjpa\model\entity\User.class
+com\example\springjpa\service\IAccountService.class
+com\example\springjpa\model\request\AccountRequest.class
+com\example\springjpa\repository\ProfileRepository.class
+com\example\springjpa\service\AccountServiceImpl.class
+com\example\springjpa\repository\UserRepository.class
+com\example\springjpa\controller\AccountController.class
+com\example\springjpa\model\request\AccountLogin.class
+com\example\springjpa\model\request\CreateProfileRequest.class
+com\example\springjpa\repository\AccountRepository.class
+com\example\springjpa\SpringJpaApplication.class
+com\example\springjpa\service\IProfileService.class
+com\example\springjpa\service\ProfileRepositoryImpl.class
+com\example\springjpa\model\entity\Account.class
+com\example\springjpa\model\entity\Profile.class
